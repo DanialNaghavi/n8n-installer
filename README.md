@@ -15,7 +15,7 @@ Run this command as **root** user (or use `sudo` before it):
 این دستور را با دسترسی root اجرا کنید:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/DanialNaghavi/n8n-installer/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/DanialNaghavi/n8n-installer/main/n8n-install.sh)
 ```
 
 📦 What it does | این اسکریپت چه کارهایی انجام می‌دهد:
