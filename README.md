@@ -39,10 +39,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/DanialNaghavi/n8n-installer/ma
 You can access n8n in your browser via:
 
 شما می‌توانید پس از نصب به آدرس زیر در مرورگر دسترسی داشته باشید:
-
+```
 http://<your-server-ip>:<your-port>
+```
 
---
 
 
 
