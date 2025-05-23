@@ -21,22 +21,30 @@ bash <(curl -Ls https://raw.githubusercontent.com/DanialNaghavi/n8n-installer/ma
 📦 What it does | این اسکریپت چه کارهایی انجام می‌دهد:
 
 ✅ Updates system packages
+
 بروزرسانی پکیج‌های سیستم
 
 ✅ Installs Docker & Docker Compose
+
 نصب داکر و داکر کامپوز
 
 ✅ Asks for custom port
+
 درخواست پورت دلخواه از کاربر
 
 ✅ Detects your public IP & timezone
+
 تشخیص IP عمومی و منطقه زمانی سیستم
 
 ✅ Sets up n8n with Docker Compose
+
 تنظیم و اجرای n8n با استفاده از Docker Compose
 
 ✅ Starts and verifies n8n container
+
 راه‌اندازی و بررسی وضعیت اجرای 
+
+
 🌐 After Installation | پس از نصب
 
 You can access the n8n web interface in your browser:
